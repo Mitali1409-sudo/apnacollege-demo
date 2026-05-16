@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first project<br>
-Auther : Mitali Tarale
+Auther : Mitali Sanjay Tarale
